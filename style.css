@@ -84,7 +84,7 @@ a, a:hover { text-decoration: none; }
 .owl-carousel button.owl-dot {
     height: 6px;
     width: 24px;
-    background-color: #dddddd;
+    background-color: #eaeaea;
     display: inline-block;
     margin: 0 4px;
     border-radius: 5px;
